@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_bI-4MbJSEee5CrjxhBM7qg" label="Trial" description="Remote Connection Trial" language="java" technicalLabel="TRIAL" creationDate="2017-10-16T14:56:12.792+0800" author="_bI-4MrJSEee5CrjxhBM7qg" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/merielmenteben/Trial.git&quot;,&quot;login&quot;:&quot;merielmenteben&quot;,&quot;passwd&quot;:&quot;ERRqIBgRcX2Dadd1lJHNzA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+  <TalendProperties:Project xmi:id="_bI-4MbJSEee5CrjxhBM7qg" label="Trial" description="Remote Connection Trial" language="java" technicalLabel="TRIAL" creationDate="2017-10-16T14:56:12.792+0800" author="_bI-4MrJSEee5CrjxhBM7qg" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/merielmenteben/Trial.git&quot;,&quot;login&quot;:&quot;merielmenteben&quot;,&quot;passwd&quot;:&quot;ERRqIBgRcX2Dadd1lJHNzA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_blZucLJSEee5CrjxhBM7qg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_blZucbJSEee5CrjxhBM7qg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_blZucrJSEee5CrjxhBM7qg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_blM6ILJSEee5CrjxhBM7qg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_blM6IbJSEee5CrjxhBM7qg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_blM6IrJSEee5CrjxhBM7qg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_bi83YLJSEee5CrjxhBM7qg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_bi83YbJSEee5CrjxhBM7qg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_bi83YrJSEee5CrjxhBM7qg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
